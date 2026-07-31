@@ -34,10 +34,10 @@ init
 	}
 }
 
-start
+/*start
 {
     return current.mission == "Surface Tension";
-}
+}*\
 
 isLoading
 {

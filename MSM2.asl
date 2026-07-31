@@ -37,8 +37,8 @@ init
 /*start
 {
     return current.mission == "Surface Tension";
-}*\
-
+}
+*\
 isLoading
 {
     return current.loading == 1;
